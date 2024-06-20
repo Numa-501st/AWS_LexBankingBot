@@ -18,8 +18,8 @@ There is a CloudFormation template also inspired by [NextWork](https://www.nextw
 
 **Technologies**
 - Amazon Lex
-- Lamdba
-- CloudFormation
+- AWS Lamdba
+- AWS CloudFormation
 
 <br><br>
 
