@@ -1,8 +1,9 @@
-# AWS_LexBankingBot
+# 501st Banking Bot
 A 501st Banking Bot utilises Amazon Lex: an AI tool for building conversational interfaces using voice and text, powered by the same deep learning technologies as Amazon Alexa.
 There is a CloudFormation template also inspired by [NextWork](https://www.nextwork.org).
 
 
+## Lex Components
 This basic 501st Banking Bot utilises Amazon Lex's key components:
 - Intents       :    Definititions of what the bot is designed to do and what actions it should perform based on user input.
 - Slots         :    Parameters or variables that the bot needs to fulfill an intent.
@@ -20,6 +21,7 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 
 
 
+## Bot Creation Process 
 
 ### Welcome Intent
 <div align=center margin= auto> 
@@ -48,16 +50,16 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 </div>
 
 
-## Transfer Funds Intent (With Error handling)
 
+### Transfer Funds Intent (With Error handling)
 <div align="center">
-  <img src="images/transferfundsintent1.jpg" width="40%">
-  <img src="images/transferfundsintent2.jpg" width="40%">
+  <img src="images/transferfundsintent1.png" width="40%">
+  <img src="images/transferfundsintent2.png" width="40%">
 </div>
 
 <div align="center">
-  <img src="images/transferfundsintent3.jpg" width="40%">
-  <img src="images/transferfundsintent4.jpg" width="40%">
+  <img src="images/transferfundsintent3.png" width="40%">
+  <img src="images/transferfundsintent4.png" width="40%">
 </div>
 
 
