@@ -19,20 +19,28 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 - CloudFormation
 
 
+
+
 ### Welcome Intent
 <div align=center margin= auto> 
   <img src="images/welcomeintent.png"  width=80%>
 </div>
+
+
 
 ### Fallback Intent
 <div align=center margin= auto> 
   <img src="images/fallbackintent.png"  width=80%>
 </div>
 
+
+
 ### Check Balance Intent (Prior to Lamdba function connection)
 <div align=center margin= auto> 
   <img src="images/checkbalanceintent.png"  width=80%>
 </div>
+
+
 
 ### Check Balance Intent (With Lambda function connected)
 <div align=center margin= auto> 
@@ -40,27 +48,30 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 </div>
 
 
+
 ## Transfer Funds Intent (With Error handling)
+## Image Grid
 
-<div style="display: flex; flex-wrap: wrap;">
-
-  <div style="flex: 50%; text-align: center;">
-    <img src="images/transferfundsintent1" alt="First Image" style="width:100%">
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 50%; max-width: 50%; text-align: center; padding: 0 16px;">
+    <img src="images/transferfundsintent1.jpg" alt="First Image" style="width:100%">
   </div>
 
-  <div style="flex: 50%; text-align: center;">
-    <img src="images/transferfundsintent2" alt="Second Image" style="width:100%">
+  <div style="flex: 50%; max-width: 50%; text-align: center; padding: 0 16px;">
+    <img src="images/transferfundsintent2.jpg" alt="Second Image" style="width:100%">
   </div>
 
-  <div style="flex: 50%; text-align: center;">
-    <img src="images/transferfundsintent3" alt="Third Image" style="width:100%">
+  <div style="flex: 50%; max-width: 50%; text-align: center; padding: 0 16px;">
+    <img src="images/transferfundsintent3.jpg" alt="Third Image" style="width:100%">
   </div>
 
-  <div style="flex: 50%; text-align: center;">
-    <img src="images/transferfundsintent4" alt="Fourth Image" style="width:100%">
+  <div style="flex: 50%; max-width: 50%; text-align: center; padding: 0 16px;">
+    <img src="images/transferfundsintent4.jpg" alt="Fourth Image" style="width:100%">
   </div>
-
 </div>
+
+
+
 
 
 ### Visual Builder 
