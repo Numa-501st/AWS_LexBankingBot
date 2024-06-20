@@ -51,13 +51,13 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 ## Transfer Funds Intent (With Error handling)
 
 <div align="center">
-  <img src="images/transferfundsintent1.jpg" width="80%">
-  <img src="images/transferfundsintent2.jpg" width="80%">
+  <img src="images/transferfundsintent1.jpg" width="40%">
+  <img src="images/transferfundsintent2.jpg" width="40%">
 </div>
 
 <div align="center">
-  <img src="images/transferfundsintent3.jpg" width="80%">
-  <img src="images/transferfundsintent4.jpg" width="80%">
+  <img src="images/transferfundsintent3.jpg" width="40%">
+  <img src="images/transferfundsintent4.jpg" width="40%">
 </div>
 
 
