@@ -1,11 +1,11 @@
-# 501st Banking Bot
-A 501st Banking Bot utilises Amazon Lex: an AI tool for building conversational interfaces using voice and text, powered by the same deep learning technologies as Amazon Alexa.
+# 501st Banker Bot
+501st Banker Bot utilises Amazon Lex: an AI tool for building conversational interfaces using voice and text, powered by the same deep learning technologies as Amazon Alexa.
 There is a CloudFormation template also inspired by [NextWork](https://www.nextwork.org).
 
 <br>
 
 
-**This basic 501st Banking Bot utilises Amazon Lex's key components:**
+**This basic 501st Banker Bot utilises Amazon Lex's key components:**
 - Intents       :    Definititions of what the bot is designed to do and what actions it should perform based on user input.
 - Slots         :    Parameters or variables that the bot needs to fulfill an intent.
 - Slot Types    :    Define the kind of data that a slot can hold.
