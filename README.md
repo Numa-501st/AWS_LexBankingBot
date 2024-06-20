@@ -62,7 +62,6 @@ This basic 501st Banking Bot utilises Amazon Lex's key components:
 
 
 
-
 ### Visual Builder 
 <div align=center margin= auto> 
   <img src="images/visualbuilder.png"  width=80%>
