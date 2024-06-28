@@ -12,7 +12,7 @@ There is a CloudFormation template also inspired by [NextWork](https://www.nextw
 - Prompts       :    Questions the bot asks the user to gather information for the slots.
 - Fulfilment    :    What happens once the bot has collected all the necessary information. E.g. Invoke a Lambda function?
 - Utterances    :    Various phrases or sentences that users might say to trigger an intent.
-- Error Handling:    Managing scenarios where the bot doesn't understand the user's inpu.
+- Error Handling:    Managing scenarios where the bot doesn't understand the user's input.
 
 <br> 
 
